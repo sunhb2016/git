@@ -5,8 +5,5 @@ Git is free software.
 789
 9876
 777
-<<<<<<< HEAD
 888
-=======
 999
->>>>>>> dev1
